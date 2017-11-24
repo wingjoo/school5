@@ -15,7 +15,7 @@ class YounariController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        colorView?.backgroundColor = #colorLiteral(red: 1, green: 0.6632423401, blue: 0, alpha: 1)
+        colorView?.backgroundColor = #colorLiteral(red: 1, green: 0.1568113565, blue: 0.2567096651, alpha: 1)
     }
     
     override func didReceiveMemoryWarning() {
