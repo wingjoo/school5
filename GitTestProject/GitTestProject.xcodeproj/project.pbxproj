@@ -20,9 +20,6 @@
 		EDB655A51FC65EA600E59D82 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EDB655A31FC65EA600E59D82 /* LaunchScreen.storyboard */; };
 		EDB655B01FC65EA600E59D82 /* GitTestProjectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDB655AF1FC65EA600E59D82 /* GitTestProjectTests.swift */; };
 		EDB655BB1FC65EA600E59D82 /* GitTestProjectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDB655BA1FC65EA600E59D82 /* GitTestProjectUITests.swift */; };
-		EDB655C91FC7BE5800E59D82 /* TestViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDB655C81FC7BE5800E59D82 /* TestViewController.swift */; };
-		EDB655CB1FC7C19800E59D82 /* NewGitignoreViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDB655CA1FC7C19800E59D82 /* NewGitignoreViewController.swift */; };
-		EDB655CD1FC7C2CD00E59D82 /* SendVCTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDB655CC1FC7C2CD00E59D82 /* SendVCTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -62,9 +59,6 @@
 		EDB655B61FC65EA600E59D82 /* GitTestProjectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GitTestProjectUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EDB655BA1FC65EA600E59D82 /* GitTestProjectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitTestProjectUITests.swift; sourceTree = "<group>"; };
 		EDB655BC1FC65EA600E59D82 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		EDB655C81FC7BE5800E59D82 /* TestViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestViewController.swift; sourceTree = "<group>"; };
-		EDB655CA1FC7C19800E59D82 /* NewGitignoreViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewGitignoreViewController.swift; sourceTree = "<group>"; };
-		EDB655CC1FC7C2CD00E59D82 /* SendVCTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SendVCTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +95,24 @@
 			path = Younari;
 			sourceTree = "<group>";
 		};
+		DD706CBE1FC7C92100146CCA /* Sejun */ = {
+			isa = PBXGroup;
+			children = (
+				0DB701611FC6E7A100E33945 /* SeJunViewController.swift */,
+			);
+			path = Sejun;
+			sourceTree = "<group>";
+		};
+		DD706CBF1FC7C92B00146CCA /* Kyuhan */ = {
+			isa = PBXGroup;
+			children = (
+				EDB6559C1FC65EA600E59D82 /* ViewController.swift */,
+				D5464B0E1FC7B3E500EC72F8 /* Car.swift */,
+				D55B96971FC7BE52009D4512 /* GitProViewController.swift */,
+			);
+			path = Kyuhan;
+			sourceTree = "<group>";
+		};
 		EDB6558E1FC65EA600E59D82 = {
 			isa = PBXGroup;
 			children = (
@@ -125,16 +137,11 @@
 			isa = PBXGroup;
 			children = (
 				EDB6559A1FC65EA600E59D82 /* AppDelegate.swift */,
-				EDB6559C1FC65EA600E59D82 /* ViewController.swift */,
-				EDB655C81FC7BE5800E59D82 /* TestViewController.swift */,
-				EDB655CA1FC7C19800E59D82 /* NewGitignoreViewController.swift */,
-				EDB655CC1FC7C2CD00E59D82 /* SendVCTableViewCell.swift */,
-				D5464B0E1FC7B3E500EC72F8 /* Car.swift */,
-				D55B96971FC7BE52009D4512 /* GitProViewController.swift */,
-				0DB701611FC6E7A100E33945 /* SeJunViewController.swift */,
+				DD706CBE1FC7C92100146CCA /* Sejun */,
+				DD5FE50E1FC7C0BC0089636E /* Younari */,
+				DD706CBF1FC7C92B00146CCA /* Kyuhan */,
 				EDB655A11FC65EA600E59D82 /* Assets.xcassets */,
 				EDB6559E1FC65EA600E59D82 /* Main.storyboard */,
-				DD5FE50E1FC7C0BC0089636E /* Younari */,
 				EDB655A31FC65EA600E59D82 /* LaunchScreen.storyboard */,
 				D55B96951FC7BD42009D4512 /* kyu.storyboard */,
 				EDB655A61FC65EA600E59D82 /* Info.plist */,
@@ -297,10 +304,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EDB6559D1FC65EA600E59D82 /* ViewController.swift in Sources */,
-				EDB655CD1FC7C2CD00E59D82 /* SendVCTableViewCell.swift in Sources */,
 				EDB6559B1FC65EA600E59D82 /* AppDelegate.swift in Sources */,
-				EDB655CB1FC7C19800E59D82 /* NewGitignoreViewController.swift in Sources */,
-				EDB655C91FC7BE5800E59D82 /* TestViewController.swift in Sources */,
 				D5464B0F1FC7B3E500EC72F8 /* Car.swift in Sources */,
 				0DB701621FC6E7A100E33945 /* SeJunViewController.swift in Sources */,
 				DD5FE50D1FC7C0B00089636E /* BlueBottleController.swift in Sources */,
