@@ -38,11 +38,8 @@
 
 /* Begin PBXFileReference section */
 		0DB701611FC6E7A100E33945 /* SeJunViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeJunViewController.swift; sourceTree = "<group>"; };
-<<<<<<< HEAD
 		D5464B0E1FC7B3E500EC72F8 /* Car.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Car.swift; sourceTree = "<group>"; };
-=======
 		DDE6A2991FC7B3D300B51BFC /* YounariController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YounariController.swift; sourceTree = "<group>"; };
->>>>>>> b57b044c983c75d8fa2af497bd874d1afd07c2ff
 		EDB655971FC65EA600E59D82 /* GitTestProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitTestProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EDB6559A1FC65EA600E59D82 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		EDB6559C1FC65EA600E59D82 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -108,13 +105,10 @@
 			children = (
 				EDB6559A1FC65EA600E59D82 /* AppDelegate.swift */,
 				EDB6559C1FC65EA600E59D82 /* ViewController.swift */,
-<<<<<<< HEAD
 				D5464B0E1FC7B3E500EC72F8 /* Car.swift */,
 				EDB6559E1FC65EA600E59D82 /* Main.storyboard */,
-=======
 				DDE6A2991FC7B3D300B51BFC /* YounariController.swift */,
 				0DB701611FC6E7A100E33945 /* SeJunViewController.swift */,
->>>>>>> b57b044c983c75d8fa2af497bd874d1afd07c2ff
 				EDB655A11FC65EA600E59D82 /* Assets.xcassets */,
 				EDB6559E1FC65EA600E59D82 /* Main.storyboard */,
 				EDB655A31FC65EA600E59D82 /* LaunchScreen.storyboard */,
