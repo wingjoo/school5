@@ -8,8 +8,12 @@
 
 /* Begin PBXBuildFile section */
 		0DB701621FC6E7A100E33945 /* SeJunViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DB701611FC6E7A100E33945 /* SeJunViewController.swift */; };
+
 		DD5FE50B1FC7C0870089636E /* bluebottle.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DD5FE50A1FC7C0870089636E /* bluebottle.storyboard */; };
 		DD5FE50D1FC7C0B00089636E /* BlueBottleController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD5FE50C1FC7C0B00089636E /* BlueBottleController.swift */; };
+
+		D5464B0F1FC7B3E500EC72F8 /* Car.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5464B0E1FC7B3E500EC72F8 /* Car.swift */; };
+
 		DDE6A29A1FC7B3D300B51BFC /* YounariController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDE6A2991FC7B3D300B51BFC /* YounariController.swift */; };
 		EDB6559B1FC65EA600E59D82 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDB6559A1FC65EA600E59D82 /* AppDelegate.swift */; };
 		EDB6559D1FC65EA600E59D82 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDB6559C1FC65EA600E59D82 /* ViewController.swift */; };
@@ -18,6 +22,8 @@
 		EDB655A51FC65EA600E59D82 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EDB655A31FC65EA600E59D82 /* LaunchScreen.storyboard */; };
 		EDB655B01FC65EA600E59D82 /* GitTestProjectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDB655AF1FC65EA600E59D82 /* GitTestProjectTests.swift */; };
 		EDB655BB1FC65EA600E59D82 /* GitTestProjectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDB655BA1FC65EA600E59D82 /* GitTestProjectUITests.swift */; };
+		EDB655C91FC7BE5800E59D82 /* TestViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDB655C81FC7BE5800E59D82 /* TestViewController.swift */; };
+		EDB655CB1FC7C19800E59D82 /* NewGitignoreViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDB655CA1FC7C19800E59D82 /* NewGitignoreViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -39,8 +45,12 @@
 
 /* Begin PBXFileReference section */
 		0DB701611FC6E7A100E33945 /* SeJunViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeJunViewController.swift; sourceTree = "<group>"; };
+
 		DD5FE50A1FC7C0870089636E /* bluebottle.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = bluebottle.storyboard; sourceTree = "<group>"; };
 		DD5FE50C1FC7C0B00089636E /* BlueBottleController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlueBottleController.swift; sourceTree = "<group>"; };
+
+		D5464B0E1FC7B3E500EC72F8 /* Car.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Car.swift; sourceTree = "<group>"; };
+>>>>>>> 9486a362ed926f98151e0ff6fdfa41e3defa1c74
 		DDE6A2991FC7B3D300B51BFC /* YounariController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YounariController.swift; sourceTree = "<group>"; };
 		EDB655971FC65EA600E59D82 /* GitTestProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitTestProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EDB6559A1FC65EA600E59D82 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -55,6 +65,8 @@
 		EDB655B61FC65EA600E59D82 /* GitTestProjectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GitTestProjectUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EDB655BA1FC65EA600E59D82 /* GitTestProjectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitTestProjectUITests.swift; sourceTree = "<group>"; };
 		EDB655BC1FC65EA600E59D82 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EDB655C81FC7BE5800E59D82 /* TestViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestViewController.swift; sourceTree = "<group>"; };
+		EDB655CA1FC7C19800E59D82 /* NewGitignoreViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewGitignoreViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,6 +129,12 @@
 			children = (
 				EDB6559A1FC65EA600E59D82 /* AppDelegate.swift */,
 				EDB6559C1FC65EA600E59D82 /* ViewController.swift */,
+
+				EDB655C81FC7BE5800E59D82 /* TestViewController.swift */,
+				EDB655CA1FC7C19800E59D82 /* NewGitignoreViewController.swift */,
+				D5464B0E1FC7B3E500EC72F8 /* Car.swift */,
+				DDE6A2991FC7B3D300B51BFC /* YounariController.swift */,
+
 				0DB701611FC6E7A100E33945 /* SeJunViewController.swift */,
 				EDB655A11FC65EA600E59D82 /* Assets.xcassets */,
 				EDB6559E1FC65EA600E59D82 /* Main.storyboard */,
@@ -283,6 +301,9 @@
 				EDB6559D1FC65EA600E59D82 /* ViewController.swift in Sources */,
 				DDE6A29A1FC7B3D300B51BFC /* YounariController.swift in Sources */,
 				EDB6559B1FC65EA600E59D82 /* AppDelegate.swift in Sources */,
+				EDB655CB1FC7C19800E59D82 /* NewGitignoreViewController.swift in Sources */,
+				EDB655C91FC7BE5800E59D82 /* TestViewController.swift in Sources */,
+				D5464B0F1FC7B3E500EC72F8 /* Car.swift in Sources */,
 				0DB701621FC6E7A100E33945 /* SeJunViewController.swift in Sources */,
 				DD5FE50D1FC7C0B00089636E /* BlueBottleController.swift in Sources */,
 			);
