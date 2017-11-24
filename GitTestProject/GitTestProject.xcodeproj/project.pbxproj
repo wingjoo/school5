@@ -15,6 +15,7 @@
 		EDB655A51FC65EA600E59D82 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EDB655A31FC65EA600E59D82 /* LaunchScreen.storyboard */; };
 		EDB655B01FC65EA600E59D82 /* GitTestProjectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDB655AF1FC65EA600E59D82 /* GitTestProjectTests.swift */; };
 		EDB655BB1FC65EA600E59D82 /* GitTestProjectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDB655BA1FC65EA600E59D82 /* GitTestProjectUITests.swift */; };
+		EDB655C91FC7BE5800E59D82 /* TestViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDB655C81FC7BE5800E59D82 /* TestViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		EDB655B61FC65EA600E59D82 /* GitTestProjectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GitTestProjectUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EDB655BA1FC65EA600E59D82 /* GitTestProjectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitTestProjectUITests.swift; sourceTree = "<group>"; };
 		EDB655BC1FC65EA600E59D82 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EDB655C81FC7BE5800E59D82 /* TestViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 			children = (
 				EDB6559A1FC65EA600E59D82 /* AppDelegate.swift */,
 				EDB6559C1FC65EA600E59D82 /* ViewController.swift */,
+				EDB655C81FC7BE5800E59D82 /* TestViewController.swift */,
 				EDB6559E1FC65EA600E59D82 /* Main.storyboard */,
 				EDB655A11FC65EA600E59D82 /* Assets.xcassets */,
 				EDB655A31FC65EA600E59D82 /* LaunchScreen.storyboard */,
@@ -264,6 +267,7 @@
 			files = (
 				EDB6559D1FC65EA600E59D82 /* ViewController.swift in Sources */,
 				EDB6559B1FC65EA600E59D82 /* AppDelegate.swift in Sources */,
+				EDB655C91FC7BE5800E59D82 /* TestViewController.swift in Sources */,
 				0DB701621FC6E7A100E33945 /* SeJunViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
