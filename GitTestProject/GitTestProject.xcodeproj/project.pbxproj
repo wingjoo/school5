@@ -8,7 +8,11 @@
 
 /* Begin PBXBuildFile section */
 		0DB701621FC6E7A100E33945 /* SeJunViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DB701611FC6E7A100E33945 /* SeJunViewController.swift */; };
+<<<<<<< HEAD
 		DD5FE5091FC7BD320089636E /* Zico.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DD5FE5081FC7BD320089636E /* Zico.storyboard */; };
+=======
+		D5464B0F1FC7B3E500EC72F8 /* Car.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5464B0E1FC7B3E500EC72F8 /* Car.swift */; };
+>>>>>>> 523724336c1a2d309b1e2705c87a3e6dda603658
 		DDE6A29A1FC7B3D300B51BFC /* YounariController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDE6A2991FC7B3D300B51BFC /* YounariController.swift */; };
 		EDB6559B1FC65EA600E59D82 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDB6559A1FC65EA600E59D82 /* AppDelegate.swift */; };
 		EDB6559D1FC65EA600E59D82 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDB6559C1FC65EA600E59D82 /* ViewController.swift */; };
@@ -38,7 +42,11 @@
 
 /* Begin PBXFileReference section */
 		0DB701611FC6E7A100E33945 /* SeJunViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeJunViewController.swift; sourceTree = "<group>"; };
+<<<<<<< HEAD
 		DD5FE5081FC7BD320089636E /* Zico.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Zico.storyboard; sourceTree = "<group>"; };
+=======
+		D5464B0E1FC7B3E500EC72F8 /* Car.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Car.swift; sourceTree = "<group>"; };
+>>>>>>> 523724336c1a2d309b1e2705c87a3e6dda603658
 		DDE6A2991FC7B3D300B51BFC /* YounariController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YounariController.swift; sourceTree = "<group>"; };
 		EDB655971FC65EA600E59D82 /* GitTestProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitTestProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EDB6559A1FC65EA600E59D82 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -105,6 +113,8 @@
 			children = (
 				EDB6559A1FC65EA600E59D82 /* AppDelegate.swift */,
 				EDB6559C1FC65EA600E59D82 /* ViewController.swift */,
+				D5464B0E1FC7B3E500EC72F8 /* Car.swift */,
+				EDB6559E1FC65EA600E59D82 /* Main.storyboard */,
 				DDE6A2991FC7B3D300B51BFC /* YounariController.swift */,
 				0DB701611FC6E7A100E33945 /* SeJunViewController.swift */,
 				EDB655A11FC65EA600E59D82 /* Assets.xcassets */,
@@ -272,6 +282,7 @@
 				EDB6559D1FC65EA600E59D82 /* ViewController.swift in Sources */,
 				DDE6A29A1FC7B3D300B51BFC /* YounariController.swift in Sources */,
 				EDB6559B1FC65EA600E59D82 /* AppDelegate.swift in Sources */,
+				D5464B0F1FC7B3E500EC72F8 /* Car.swift in Sources */,
 				0DB701621FC6E7A100E33945 /* SeJunViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
