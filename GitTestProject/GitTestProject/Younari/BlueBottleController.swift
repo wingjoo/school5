@@ -14,7 +14,7 @@ class BlueBottleController: UIViewController {
     @IBOutlet weak var bluebottle: UIView!
     override func viewDidLoad() {
         super.viewDidLoad()
-
+        bluebottle.backgroundColor = .blue
         // Do any additional setup after loading the view.
     }
 

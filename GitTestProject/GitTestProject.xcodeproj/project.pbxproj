@@ -106,6 +106,7 @@
 		DD706CBF1FC7C92B00146CCA /* Kyuhan */ = {
 			isa = PBXGroup;
 			children = (
+				D55B96951FC7BD42009D4512 /* kyu.storyboard */,
 				EDB6559C1FC65EA600E59D82 /* ViewController.swift */,
 				D5464B0E1FC7B3E500EC72F8 /* Car.swift */,
 				D55B96971FC7BE52009D4512 /* GitProViewController.swift */,
@@ -136,14 +137,13 @@
 		EDB655991FC65EA600E59D82 /* GitTestProject */ = {
 			isa = PBXGroup;
 			children = (
+				EDB6559E1FC65EA600E59D82 /* Main.storyboard */,
 				EDB6559A1FC65EA600E59D82 /* AppDelegate.swift */,
 				DD706CBE1FC7C92100146CCA /* Sejun */,
 				DD5FE50E1FC7C0BC0089636E /* Younari */,
 				DD706CBF1FC7C92B00146CCA /* Kyuhan */,
 				EDB655A11FC65EA600E59D82 /* Assets.xcassets */,
-				EDB6559E1FC65EA600E59D82 /* Main.storyboard */,
 				EDB655A31FC65EA600E59D82 /* LaunchScreen.storyboard */,
-				D55B96951FC7BD42009D4512 /* kyu.storyboard */,
 				EDB655A61FC65EA600E59D82 /* Info.plist */,
 			);
 			path = GitTestProject;
