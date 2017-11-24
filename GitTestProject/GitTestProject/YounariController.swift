@@ -11,6 +11,7 @@ import UIKit
 class YounariController: UIViewController {
 
     @IBOutlet weak var colorView = UIView()
+    @IBOutlet
     
     override func viewDidLoad() {
         super.viewDidLoad()

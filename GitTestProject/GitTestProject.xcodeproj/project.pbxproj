@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		0DB701621FC6E7A100E33945 /* SeJunViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DB701611FC6E7A100E33945 /* SeJunViewController.swift */; };
+		DD5FE5091FC7BD320089636E /* Zico.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DD5FE5081FC7BD320089636E /* Zico.storyboard */; };
 		DDE6A29A1FC7B3D300B51BFC /* YounariController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDE6A2991FC7B3D300B51BFC /* YounariController.swift */; };
 		EDB6559B1FC65EA600E59D82 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDB6559A1FC65EA600E59D82 /* AppDelegate.swift */; };
 		EDB6559D1FC65EA600E59D82 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDB6559C1FC65EA600E59D82 /* ViewController.swift */; };
@@ -37,6 +38,7 @@
 
 /* Begin PBXFileReference section */
 		0DB701611FC6E7A100E33945 /* SeJunViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeJunViewController.swift; sourceTree = "<group>"; };
+		DD5FE5081FC7BD320089636E /* Zico.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Zico.storyboard; sourceTree = "<group>"; };
 		DDE6A2991FC7B3D300B51BFC /* YounariController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YounariController.swift; sourceTree = "<group>"; };
 		EDB655971FC65EA600E59D82 /* GitTestProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitTestProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EDB6559A1FC65EA600E59D82 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -107,6 +109,7 @@
 				0DB701611FC6E7A100E33945 /* SeJunViewController.swift */,
 				EDB655A11FC65EA600E59D82 /* Assets.xcassets */,
 				EDB6559E1FC65EA600E59D82 /* Main.storyboard */,
+				DD5FE5081FC7BD320089636E /* Zico.storyboard */,
 				EDB655A31FC65EA600E59D82 /* LaunchScreen.storyboard */,
 				EDB655A61FC65EA600E59D82 /* Info.plist */,
 			);
@@ -241,6 +244,7 @@
 				EDB655A51FC65EA600E59D82 /* LaunchScreen.storyboard in Resources */,
 				EDB655A21FC65EA600E59D82 /* Assets.xcassets in Resources */,
 				EDB655A01FC65EA600E59D82 /* Main.storyboard in Resources */,
+				DD5FE5091FC7BD320089636E /* Zico.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
