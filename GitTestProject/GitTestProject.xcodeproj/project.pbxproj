@@ -14,6 +14,9 @@
 
 		D5464B0F1FC7B3E500EC72F8 /* Car.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5464B0E1FC7B3E500EC72F8 /* Car.swift */; };
 
+		D55B96961FC7BD42009D4512 /* kyu.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D55B96951FC7BD42009D4512 /* kyu.storyboard */; };
+		D55B96981FC7BE52009D4512 /* GitProViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D55B96971FC7BE52009D4512 /* GitProViewController.swift */; };
+
 		DDE6A29A1FC7B3D300B51BFC /* YounariController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDE6A2991FC7B3D300B51BFC /* YounariController.swift */; };
 		EDB6559B1FC65EA600E59D82 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDB6559A1FC65EA600E59D82 /* AppDelegate.swift */; };
 		EDB6559D1FC65EA600E59D82 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDB6559C1FC65EA600E59D82 /* ViewController.swift */; };
@@ -24,6 +27,7 @@
 		EDB655BB1FC65EA600E59D82 /* GitTestProjectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDB655BA1FC65EA600E59D82 /* GitTestProjectUITests.swift */; };
 		EDB655C91FC7BE5800E59D82 /* TestViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDB655C81FC7BE5800E59D82 /* TestViewController.swift */; };
 		EDB655CB1FC7C19800E59D82 /* NewGitignoreViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDB655CA1FC7C19800E59D82 /* NewGitignoreViewController.swift */; };
+		EDB655CD1FC7C2CD00E59D82 /* SendVCTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDB655CC1FC7C2CD00E59D82 /* SendVCTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,7 +54,9 @@
 		DD5FE50C1FC7C0B00089636E /* BlueBottleController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlueBottleController.swift; sourceTree = "<group>"; };
 
 		D5464B0E1FC7B3E500EC72F8 /* Car.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Car.swift; sourceTree = "<group>"; };
->>>>>>> 9486a362ed926f98151e0ff6fdfa41e3defa1c74
+	D55B96951FC7BD42009D4512 /* kyu.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = kyu.storyboard; sourceTree = "<group>"; };
+		D55B96971FC7BE52009D4512 /* GitProViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitProViewController.swift; sourceTree = "<group>"; };
+>>>>>>> c1228b5007fa7fb6de8c374b1e058e90ad172fd4
 		DDE6A2991FC7B3D300B51BFC /* YounariController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YounariController.swift; sourceTree = "<group>"; };
 		EDB655971FC65EA600E59D82 /* GitTestProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitTestProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EDB6559A1FC65EA600E59D82 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -67,6 +73,7 @@
 		EDB655BC1FC65EA600E59D82 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EDB655C81FC7BE5800E59D82 /* TestViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestViewController.swift; sourceTree = "<group>"; };
 		EDB655CA1FC7C19800E59D82 /* NewGitignoreViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewGitignoreViewController.swift; sourceTree = "<group>"; };
+		EDB655CC1FC7C2CD00E59D82 /* SendVCTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SendVCTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -132,14 +139,20 @@
 
 				EDB655C81FC7BE5800E59D82 /* TestViewController.swift */,
 				EDB655CA1FC7C19800E59D82 /* NewGitignoreViewController.swift */,
+				EDB655CC1FC7C2CD00E59D82 /* SendVCTableViewCell.swift */,
 				D5464B0E1FC7B3E500EC72F8 /* Car.swift */,
 				DDE6A2991FC7B3D300B51BFC /* YounariController.swift */,
+<<<<<<< HEAD
 
+=======
+				D55B96971FC7BE52009D4512 /* GitProViewController.swift */,
+>>>>>>> c1228b5007fa7fb6de8c374b1e058e90ad172fd4
 				0DB701611FC6E7A100E33945 /* SeJunViewController.swift */,
 				EDB655A11FC65EA600E59D82 /* Assets.xcassets */,
 				EDB6559E1FC65EA600E59D82 /* Main.storyboard */,
 				DD5FE50E1FC7C0BC0089636E /* Younari */,
 				EDB655A31FC65EA600E59D82 /* LaunchScreen.storyboard */,
+				D55B96951FC7BD42009D4512 /* kyu.storyboard */,
 				EDB655A61FC65EA600E59D82 /* Info.plist */,
 			);
 			path = GitTestProject;
@@ -271,6 +284,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EDB655A51FC65EA600E59D82 /* LaunchScreen.storyboard in Resources */,
+				D55B96961FC7BD42009D4512 /* kyu.storyboard in Resources */,
 				EDB655A21FC65EA600E59D82 /* Assets.xcassets in Resources */,
 				DD5FE50B1FC7C0870089636E /* bluebottle.storyboard in Resources */,
 				EDB655A01FC65EA600E59D82 /* Main.storyboard in Resources */,
@@ -300,12 +314,16 @@
 			files = (
 				EDB6559D1FC65EA600E59D82 /* ViewController.swift in Sources */,
 				DDE6A29A1FC7B3D300B51BFC /* YounariController.swift in Sources */,
+				EDB655CD1FC7C2CD00E59D82 /* SendVCTableViewCell.swift in Sources */,
 				EDB6559B1FC65EA600E59D82 /* AppDelegate.swift in Sources */,
 				EDB655CB1FC7C19800E59D82 /* NewGitignoreViewController.swift in Sources */,
 				EDB655C91FC7BE5800E59D82 /* TestViewController.swift in Sources */,
 				D5464B0F1FC7B3E500EC72F8 /* Car.swift in Sources */,
 				0DB701621FC6E7A100E33945 /* SeJunViewController.swift in Sources */,
 				DD5FE50D1FC7C0B00089636E /* BlueBottleController.swift in Sources */,
+				D55B96981FC7BE52009D4512 /* GitProViewController.swift in Sources */,
+ 
+		c1228b5007fa7fb6de8c374b1e058e90ad172fd4
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
