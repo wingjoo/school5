@@ -109,7 +109,6 @@
 				EDB6559C1FC65EA600E59D82 /* ViewController.swift */,
 				EDB655C81FC7BE5800E59D82 /* TestViewController.swift */,
 				D5464B0E1FC7B3E500EC72F8 /* Car.swift */,
-				EDB6559E1FC65EA600E59D82 /* Main.storyboard */,
 				DDE6A2991FC7B3D300B51BFC /* YounariController.swift */,
 				0DB701611FC6E7A100E33945 /* SeJunViewController.swift */,
 				EDB655A11FC65EA600E59D82 /* Assets.xcassets */,
@@ -275,11 +274,8 @@
 				EDB6559D1FC65EA600E59D82 /* ViewController.swift in Sources */,
 				DDE6A29A1FC7B3D300B51BFC /* YounariController.swift in Sources */,
 				EDB6559B1FC65EA600E59D82 /* AppDelegate.swift in Sources */,
-
 				EDB655C91FC7BE5800E59D82 /* TestViewController.swift in Sources */,
-
 				D5464B0F1FC7B3E500EC72F8 /* Car.swift in Sources */,
-
 				0DB701621FC6E7A100E33945 /* SeJunViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
