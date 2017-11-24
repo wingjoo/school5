@@ -19,6 +19,7 @@
 		EDB655BB1FC65EA600E59D82 /* GitTestProjectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDB655BA1FC65EA600E59D82 /* GitTestProjectUITests.swift */; };
 		EDB655C91FC7BE5800E59D82 /* TestViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDB655C81FC7BE5800E59D82 /* TestViewController.swift */; };
 		EDB655CB1FC7C19800E59D82 /* NewGitignoreViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDB655CA1FC7C19800E59D82 /* NewGitignoreViewController.swift */; };
+		EDB655CD1FC7C2CD00E59D82 /* SendVCTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDB655CC1FC7C2CD00E59D82 /* SendVCTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,6 +58,7 @@
 		EDB655BC1FC65EA600E59D82 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EDB655C81FC7BE5800E59D82 /* TestViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestViewController.swift; sourceTree = "<group>"; };
 		EDB655CA1FC7C19800E59D82 /* NewGitignoreViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewGitignoreViewController.swift; sourceTree = "<group>"; };
+		EDB655CC1FC7C2CD00E59D82 /* SendVCTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SendVCTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,6 +113,7 @@
 				EDB6559C1FC65EA600E59D82 /* ViewController.swift */,
 				EDB655C81FC7BE5800E59D82 /* TestViewController.swift */,
 				EDB655CA1FC7C19800E59D82 /* NewGitignoreViewController.swift */,
+				EDB655CC1FC7C2CD00E59D82 /* SendVCTableViewCell.swift */,
 				D5464B0E1FC7B3E500EC72F8 /* Car.swift */,
 				DDE6A2991FC7B3D300B51BFC /* YounariController.swift */,
 				0DB701611FC6E7A100E33945 /* SeJunViewController.swift */,
@@ -276,6 +279,7 @@
 			files = (
 				EDB6559D1FC65EA600E59D82 /* ViewController.swift in Sources */,
 				DDE6A29A1FC7B3D300B51BFC /* YounariController.swift in Sources */,
+				EDB655CD1FC7C2CD00E59D82 /* SendVCTableViewCell.swift in Sources */,
 				EDB6559B1FC65EA600E59D82 /* AppDelegate.swift in Sources */,
 				EDB655CB1FC7C19800E59D82 /* NewGitignoreViewController.swift in Sources */,
 				EDB655C91FC7BE5800E59D82 /* TestViewController.swift in Sources */,
