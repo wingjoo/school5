@@ -10,6 +10,8 @@ import UIKit
 
 class BlueBottleController: UIViewController {
 
+    
+    @IBOutlet weak var bluebottle: UIView!
     override func viewDidLoad() {
         super.viewDidLoad()
 
